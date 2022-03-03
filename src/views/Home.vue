@@ -34,6 +34,8 @@ export default {
         console.log(err.value)
       }
     }
+
+    load()
    
 
      return { posts, error }
